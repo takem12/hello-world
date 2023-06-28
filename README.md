@@ -7,7 +7,8 @@ Table
 | Header | Title |
 | Paragraph | Text |
 
-Fenced Code Block	```
+Fenced Code Block	
+```
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -16,7 +17,7 @@ Fenced Code Block	```
 ```
 
 Footnote
-Here's a sentence with a footnote. `[^1]`
+Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
